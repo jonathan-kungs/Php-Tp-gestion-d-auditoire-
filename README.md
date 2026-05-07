@@ -1,5 +1,5 @@
 # Php-Tp-gestion-d-auditoire-
-Interface permettant de gérer l’utilisation des auditoires au sein de la Fasi 
+Interface permettant de gérer l’utilisation des auditoires(salle de cours )au sein de la Fasi 
 
 TRAVAIL PHP DU GROUPE F1
 
